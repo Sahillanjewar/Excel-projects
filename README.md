@@ -1,4 +1,5 @@
-Excel Data Analytics Projects
+## Excel Data Analytics Projects
+
 This repository contains multiple Excel-based data analytics projects demonstrating skills in data cleaning, pivot tables, dashboard creation, and data visualization. These projects focus on extracting business insights from different domains such as healthcare, telecommunications, logistics, and human resources.
 Interactive dashboards were created using Microsoft Excel features like Pivot Tables, Charts, Slicers, and Conditional Formatting to analyze and visualize data effectively.
 
